@@ -1,3 +1,7 @@
+---
+permalink: /bawarao
+---
+
 # Black and White and Road All Over
 
 This is a [Country Road](https://puzz.link/rules.html?country) [Masyu](https://puzz.link/rules.html?masyu) [Star Battle](https://puzz.link/rules.html?starbattle) - in each row, column, and region, place one white pearl and one black pearl such that no two pearls are adjacent, orthogonally or diagonally. Using those pearls, draw a single path through every pearl that follows regular Masyu and Country Road rules.
