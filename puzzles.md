@@ -12,4 +12,4 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
 
 ## Logic Puzzles
  * [Curve Tapa](curveTapa1)
- * [Black and White and Road All Over](bawarao1)Country Road Masyu Star Battle
+ * [Black and White and Road All Over](bawarao1) Country Road Masyu Star Battle
