@@ -1,5 +1,5 @@
 ---
-permalink: /bawarao
+permalink: /bawarao1
 ---
 
 # Black and White and Road All Over
