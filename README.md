@@ -1,5 +1,5 @@
 # dpadawer.github.io
 
- * [Puzzles](puzzles.md)
+ * [Puzzles](puzzles)
  * [NYC PuzzledPint](nycPuzzledPint.md)
  * [Other](other.md)
