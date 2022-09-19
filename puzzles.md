@@ -11,5 +11,6 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [Enigmarch 2022](enigmarch2022) (WIP!)
 
 ## Logic Puzzles
- * [Curve Tapa](curveTapa1)
- * [Black and White and Road All Over](bawarao1) Country Road Masyu Star Battle
+ * [Curve Tapa](curve-tapa1) Curve Data, but with Tapas
+ * [Rainbow Road](rainbow-road) Country Road
+ * [Black and White and Road All Over](black-and-white-and-red-all-over-1) Country Road Masyu Star Battle
