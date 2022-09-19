@@ -1,5 +1,5 @@
 ---
-permalink: /bawarao1
+permalink: /puzzles/bawarao1
 ---
 
 # Black and White and Road All Over
