@@ -1,0 +1,11 @@
+---
+permalink: /puzzles/knapp-danebentominous-1/
+---
+
+# Kleighnt Up
+
+This is an [Pentominous](https://puzz.link/rules.html?pentominous) with the variant that each given is off by one in one direction or the other.  
+**NOTE** This is fairly bashy and was mostly made as a meme in response to someone saying "The worst pentomino is either I or X because I haven't been able to find a 10x10 Pentominous which has only Is as clues but a solution grid different from the one on GMP several years ago; and I haven't been able to find a 10x10 Pentominous which has only Xs as clues".
+
+Click the image to solve on Penpa+.
+[![Click to solve on Penpa+](../../images/puzzles/2022/knappDanebentominous1.png)](https://swaroopg92.github.io/penpa-edit/#m=solve&p=1ZXRb9o+EMff81cgP/shToCmeeta+D2sY+vG1FVWhAykJWoSMydZqyD6t/d8yQa22bRJP02ago/LJxf7fPh7VF8boVLKfP0JIwrfcA1ZhCOIxjj8/ppndZ7Gg7el2G4HV6JMl2lZyzIrZFPRi6beSBUP1luxppS+n05prZrU4/3bicdJQCgORpKXdvLCwaFh4u3aj/GuXcQ82dP288GNDu6neAd2Fu9IyEjMyRcCeep5KAlHFhgObeBEjG0Q2eDcAiPfBnbEOLRAdGaBczt15tuzMt+NCRxib5D59g6Zb2+RMSeG2VtgTnFZ6MzjlJc59WVOgZlTUOZUlI2c1Z0is7G5OhwKhkfjDu0UbYB2DieHtiHaK7Q+2hHaa4yZoL1Fe4l2iHaMMWf67HkeDztZmNfo32MgQRAbqWS+qBp1L1Ypie9FXqUUWdkUy1QZKJdym2elGZc9lFKlJx9pmK4fTsUvpVpbsz+JPDdA144MtMrUKjdRrTLjXiglnwxSiHpjgKWooXVVm2xrzgT9y0ygFmaK4lFYqxWHPe898kxw8BBaHHay87i9oe1/cEaPmh1tb6CVvYvbme5knMDpxSOIDTAAd3Jwb/G59i47yHzwZ70P7h24XVUW1x35EPN2Tole5w2+rV1SyG+QKL6G9ytZLGErnBwVo3tSNWv52PSxTGvqokt38ut0w99NF38PDPpfUw2SffcT+H/0F/IXesZzLzOpTioN8Hex6f/IH/CkpnreycoId/Sjl3MlBPSEioDaQgLkagmgIydgP1GUntUWlc7K1pVeypGWXupYXTzxXgE=&a=RZRL0lsrDIT34jGDg8RzA3eUSmWU1C2X97+Nv6Vu8Kg/Y6EWIJ33+1UfL/+9CnSWP6lLusv/obWVf6mDcXVKF9UexluVmtS535TPNtUV78b9rjhv+t3p55PrTfmaS+Xf5N8H47ri+6KOh3lGlcpv6LyDPignxXKXikEtKYP/8WacB3GeA2X8hXSeurPI7uVXCEtQBSggIuGfv5ga7iksfszcN1nE9NwwG6VTRvkdMimLsjPnotGqmWUx51pc3Bm5HwqL2E5puWF3yKe8X1atmI1SsWh4b8PlkBfYyPjfbIpnsVbFiMEbX8a7kfc3TzDeMdnrN2dw62LU0FQD3sHQD5fx5uTIo5xQ600ceZQTaugNsoNVc4s8yhmMxyLjXHhUcpzrrOMseLtk+FjX3uChGKxdL/jcnMFT94M167ofqKE7kqGGFrmMZyfjLMcXamgActSjPFCbJw946W6xdn2Dl3KiwQzddRmtQsb9HN/gpXtA713fYDRT8oq9yhO8FQMfW7qf4K17wNr1Ct4nzyz+qE706zf/wrrOjjVD9yZDbSse7I9qRgffGjbu/PiCvZ74jXjmCXV818j1eiVX1h+5HX1Pxt6qvdCTM9QxM2QD806SNUex5pqX8HTMBrkj/sSANTux5vjGXtbsxNqtJxgzk2yxV3mCMRtk7NWMhP/1hV6vYM1L+DjmgYxzaTZDXfPo+BI6PoNk7D1e8HF9B0JdMxK5XfMe6prB8HHNYKhrLsLHcwY/nx8=)

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+</style>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/animejs@3.0.1/lib/anime.min.js"></script>
+<script type="text/javascript">
+  function checkWord() {
+    var submitted = document.getElementById("textBox").value;
+    alert(submitted);
+  }
+</script>
+</head>
+<body>
+<h1>Circle</h1>
+<form id="form">
+  <input type="text" id="textBox">
+  <input type="button" value="Submit" onclick="checkWord();">
+</form>
+<svg id="svgelem" class="circle" width="300" height="300" xmlns = "http://www.w3.org/2000/svg">
+  <!--
+  star<polygon points="200,164 250,10 119,105 281,105 150,10" fill="blue"/>
+  failedattemptatinvertingstar<polygon points="100,164 50,10 181,105 9,105 150,10" fill="blue"/>
+  -->
+  <circle cx="13" cy="13" r="10" stroke="black" stroke-width="1", fill="#000000"/>
+</svg>
+<div>
+</div>
+</body>
+<script type="text/javascript">
+  let starAnimation = anime({
+    targets: '.star',
+    translateX: 100,
+    borderRadius: 50,
+    duration: 2000,
+    easing: 'linear',
+    direction: 'alternate',
+    loop: true
+  });
+  
+  let circleAnim = anime({
+    targets: '.circle2',
+    fill: '#000000',
+    duration: 2000
+  })
+  
+  let circleAnim2 = anime.timeline({
+    endDelay: 0,
+    direction: 'alternate',
+    loop: true
+  }).add({
+    targets: '.circle',
+    fill: '#000000',
+    duration: 2000
+  }).add({
+    targets: '.circle',
+    fill: '#FFFFFF',
+    duration: 2000
+  });
+</script>
+</html>

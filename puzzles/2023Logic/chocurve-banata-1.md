@@ -1,0 +1,10 @@
+---
+permalink: /puzzles/chocurve-banata-1/
+---
+
+# Chocurve Banata
+
+This is a mashup of [Choco Banana](https://puzz.link/rules.html?cbanana) and [Curve Data](https://puzz.link/rules.html?curvedata) - each number can be for a clue for either type of puzzle. There can be more than one Choco Banana clue in a single region. There can only be one Curve Data clue in a single region.
+
+Click the image to solve on Penpa+.
+[![Click to solve on Penpa+](../../images/puzzles/2023/chocurveBanata1.png)](https://swaroopg92.github.io/penpa-edit/#m=solve&p=1VZtb6M4EP6eX2EhrXQncVVI0jTlW1/vy97LXntaVSiqHHCCFQezttl2qbq/fWcG8kKgTXTSfjgRjBnGzzzj8WPHfim4EX7Qx99w4sMTrlEwoXswGdPdr6976ZQI2VWq48J8FeySZ9xx/6JwqTYhS3Ke+P5dyhPBrF4JFgulLNMZc6lgM81NcvJhcH3BFkYXOdNzZtE3qf1WhXVsrs2KcWZE7Hi2UIJpwyqSe0OLrD040+8BWES44XHKsmI1E4ZJy4QEagb8MSdNCWWcxaqgcWCmPK8hSzIiAvuNXbCY3Gc77jJLZMydsJSslSUgzKn/S00UANekf63zcCl3TH8VRvHcMum2+BQ3WcfdR095voGfy0VhRAvqw+CKPUF2unDMaMedhDoABSPmCuYG3k7YPQxXIlu4FMEETo2SGeCLxUpkjsU8YzPBxHPOszoDI5IiFgmic8uUzhb4lA4nEwgowaEOQQUNEBKY5RzwHV8KAPtGlPezs8BSJRiqPVUIz/Pc6NxImIDdVYD0Yp05LiEzoA2jVhoCVuW1yBFMGX4CalwpHIzjM/sERY9TES/hqbReWlw36LIba71umINSb7hBsISbJXAQ3xB//VRykbrN20zxeHni/3V768+5sqIX1SKa9iJv4Pl0B970e3n3PfI8P5j2Xsp/wpfyMYymr37577Y72Xbvwhdo/6Q2oPYhfPGGfS+MAB+lG5CE+1PfS8RCOq4eLxHc94ZB5USf33SaoFOFUWO1nUanRyCNztZOm6vD6bwKtyXeEe6UnA6EG4+OCDceH+NExA9wmhDSgXmabLKrqHcinVPtDjkNj3AK+oMjJiroU/UOYtUJHvA6pn7BYGdRvc1rsCnzO8UJhsdMfDCqC/2uIILTzdRvri6vxnp4y6taf2teb83EuJ77d7xA0rck7AG196B7vxxSe01tn9pTaj+Szw21n6m9onZE7Zh8znDn6PWi4Xo6dq/T/58N9k/YKj2r1aMtzJzHwgudKYRPpmrr90LacysTbO85nmoNo1xkcFJ0fkKjSBZd/jNtkj30JzgzGobqzGiYYmli1TQ5Ixvv3Bj91LCs4NRsGGbcwb8vm8q8iQSnbJOA402KfMn3oq22Ob/2vGeP7mgIK/IMj6HzsPzkl7+HjYPKLz/BOfRHWD7gMVQdWbgCI/joD6B7s+1+pu/Yu6qMAegPjq2qD90H6DbFUf4dRuW972GgSxqOXW8F/2hAMziO3mO9mkEukbczG9UXWyR6WdS+pKOLiu9dB9/hli92K77Y6+CLaSDfqoqPH38C3fPpa1WH/n/+E/CT9o3nWmrabNW2s5DA3KE4sHYqq7a3xAX2lowwYFtJYO0QE1j39QSmtqTA2FIV2N4QFqLuawtZ7csLQ7UUhqF2RRZNez8A&a=VY3BDcQgDAR74Z1HiI0htaD030ZuJq+T0GiNd9d7t35e7fhxwT7lp294nbLDUEdJnWk2Qw7pNr+tPeW2UuIJyoLfwBDcMWwqGQeXBr7BWCh7rLFlChKTlolvcXzxtxjvbM+x/97zAg==)

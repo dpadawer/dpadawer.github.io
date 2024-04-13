@@ -1,0 +1,11 @@
+---
+permalink: /puzzles/aqreven-1/
+---
+
+# Aqreven
+
+This is an [Aqre](https://puzz.link/rules.html?aqre) variant - instead of any numbers being given, every region must have an even number of cells shaded.  
+Originally created for [Black-Out Friday 2022](https://thegriddle.net/952/).
+
+Click the image below to solve on Penpa+.
+[![Click to solve on Penpa+](../../images/puzzles/2022/aqreven1.png)](https://swaroopg92.github.io/penpa-edit/#m=solve&p=zVVdb9s2FH33ryAE7I0IROrDkt6yNtlL161LhqIwjECxmVioLaaSnA8F6W/vudSVZdne9rRhkE0fXx6de3ilS9bftnllZIorSKQvFa4g8d03Cenj83VdNGuTifNvlXk0pTzfNitbZWL5kC+lvFrlSyNquzFiYdbrGlA0q7wR+Xotappc8sSdrTbClkbYCgL3tgTjRSxsWZpFAxbc5GfiemUqIzb5iyhtI8xzUUNKVNtS2DuxsZiDeomhMshoy9ostk3xCAtdLlv9LWtbjjxhIUVry8ZZwa2PpmqKhfuXly9PzktBOkbcV8Xy7Cf9Hp+LfLESlbkvbClWeQ2qoMqIcru5NRUZ5VK4VGfyt8tLeZevazOZcU3nk5mnPOlpfJU3/95efZ95nkzmk9f2j+y1vclm8zfZ/jnAZIBX2SvGj25Ubvzixks3ajdegyrbwI3v3ei7MXLjB8e5yF497adSK9/LNMwoX2oddFjrPRxIHcQdDqIdVkksVZp2OIWO3+moZDrgNNnjIM65CGNux9FKsQeFvOGQt8dBLHXY6eBX6og9B9DssQ7hbTr4UZo1aS0Rc+Bf81o0NAPWRA8MGJpB583dq7gOCn4U+/Hhc4dRN5/9k6buPGB+wOQ5Zj8xNKfsZwpOjzXyas6r4UezH0WajH3ywP596Pjsjfz4nb5KyU/vGfeq3g/Vv9eHn5D9hNAJmR9CP+R1RdCJeF0R9CPmB1R/xuQ55PqH4IfMD8Hv9Wm9MevH0I97fXB2GJyIORE4EcdJp8fEiblWMZ5jzHUgfo9T7GI+84F1yh6m8LyPE/aM3U4n7Dkhfn8vNPdw4Pf6ITDXM0Ztp/07SZ57P4jHHI+Ra9r3RbR7513NI15LRGvheIznvrsXtd3FSbPPS+8M4yk4054DHYfR3J9di79zY+jG2LX+lPaQyWSG94t2/P0L7v5PEeyR2A692q5v6m11ly+MlzXV1kgX6vZaL3P7ahdaW/uwLkrQ9oLFfYnj4OQUBc3y/hT/1lbLA/UnnAqjQHeAjkKLolqsx6GmKkb/86qyT6PIJm9Wo8Bt3uDArVfFw1jJlM3YQJOPLeZf84Nsm2HNbxPv2XPfWYAjKKCjJs3aT7L9JRsdRrL9hLPm16y9oKOGjiXljgxH0oAXA/zs5gm964LKB/7IGPALYFeVmw9d5Pds1l5Lj/L87O4m6G3sI4x2Puj/wm5usZSZt1eMbqbeLu3XLXMVnYfnnd2r3m4y2A0GuwQ7u4RO2KVV/Mt20/lb9xj8//ic/8cN4Zk7zVZDs+29RwifaDhETzYWx496C/GjLqKEx42E6IleQvSwnRA67igEj5oKsb/oK1I9bC1yddhdlOqowSjVfo/N5pMf&a=VY5LDoUwDMTu0jULmqafnAVx/2vw7N2TkJXpJBbP0/p9t+vHJbcs2H3vXQ6Z0jZswzZswzY0DOcxpebhVXIVjIMb19xKRBmAt/SNwzw/TOIkLgSL5cXyQrWJm7iRHqbjhOrwQ0UsBIWvqr3X8/e9Hw==)
