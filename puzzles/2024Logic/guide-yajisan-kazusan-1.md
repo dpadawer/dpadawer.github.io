@@ -1,0 +1,10 @@
+---
+permalink: /puzzles/guide-yajisan-kazusan-1/
+---
+
+# Guide Yajisan-Kazusan
+
+This is a [Guide Arrow](https://puzz.link/rules.html?guidearrow) [Yajisan-Kazusan](https://puzz.link/rules.html?yajikazu) mashup.   
+
+Click the image to solve on Penpa+.
+[![Click to solve on Penpa+](../../images/puzzles/2024/guideYajisanKazusan1.png)](https://swaroopg92.github.io/penpa-edit/#m=solve&p=1VTfb9s2EH73X3EgUGADOMOS7MTRW5Y2xbCt++EURSAYBi3RNhuZzCgqSRWkf3vvSHWSbO+hD30YbJ2pj8ePH8/3sfqnFlbyaELfZM7xFz/TaO6feH7mn0n7uVGulCm8rVUh4VZ8VJXQP/0qmhp/+WXtdsamUNyLgvPFTmBOZfYSclmWFRgNbidhbYQtxq/i1/iNxuDTijYlF1obB2sJSKQao50oy09gLDxI61Tu30TxUeRSu5YjHsNlWUKtqz5TfzPYGLsHoZEHBW6N9jS50VrmDlfg+UVLlozh/ZColRQooDTmfgw3O1WB0nlZF7KC+CmGUMWqZZmiJND1fi0tphWo22Ee6RF7U2sHZgODTVRQu1UPUkOhLOpSRo/hlw3uidtIwA3Dilfxlc9t6dcyxwpXsJdCK70tZVXBD8rBXnyiMjqLa7F8G1FW8sdW3gzl6a5gwlrzeKDTaKzQv0JI3+NO5TvE8d80dVkg+RZRAffC7cAZv6pywsKjwiLXDrYG9SBsTb3dYWLvwKRoLfI7ZzFgVqvrjCobusWzdJxdXwQWWsD/uL7m/lyjrG3P5ShjMeP+idjyc7P4nDHGo+Xoufk7fW5WabZ84c37bjjvhov0GeO79JklE5ZmbLZCmojIlpwlEUHRKumg6ZSgpA+dnx1lzc9DVo/rIiYoXk06KJr4LfuAZ48GSdFFwHpc0XR2TDbzZMkq+orhuSJ/uls8XRTTdMwZVZaKg/i1n419vMFy8Cbx8bWPEx9nPv7mc974+MHHKx+nPp75nHMq6GiUJeEuGX5m/z+M2mpR2w3eOgxbiVWmXFXte0oOw1oiFBzJUt+TAaLrolQa03qg2mpj5ckpAmWxPZW/NrY4YH/Ee2wAhFtoAOXK5uUQclYN3r3/B8gePT0A1sLhvV/t1P2QCW/hoQBqqQH3nTjYbd+d+WXEnph/sgTrnJBNL9Lmkjdvqac7I/PmL/Tp72lzSzYNlqZWRDMwHuPwTTf84OdpdBXAaILjd4GQlt3i8Gvr8+bPNGtuOKM9fvYracj25gFF+uX+He/YNR4jY71ChJmqLsxd3eZ6L10GqYsTUpNOKg2DVBodSm3P8h2lXixfQvkn33Q39m+S73RvPLUOM7YzWa9/ED5hNERPGqrFjzyF+JF7aMNjAyF6wkOIHtoIoWMnIXhkJsT+w0/EemgpUnXoKtrqyFi0Vd9b2XL0BQ==&a=VY3LDcUgDAR74ZxDHH/AtaD030aYfacnodFovTZ7D7ufcR2GWNDkNuGjqd+iiwlDefx8wVQn5WWHWtKOc9b7IDD1k0qSFd8Vg4lNbIGm0hzoHO+1/977AQ==)

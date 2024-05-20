@@ -1,0 +1,10 @@
+---
+permalink: /puzzles/strawberry-banana-1/
+---
+
+# Strawberry Banana
+
+This is a [Choco Banana](https://puzz.link/rules.html?cbanana) on a triangular grid with hidden clues - as you progress logically, more clues will be revealed to allow you to keep making progress.  
+
+Click the image to solve on Penpa+.
+[![Click to solve on Penpa+](../../images/puzzles/2023/strawberryBanana1.png)](https://swaroopg92.github.io/penpa-edit/#m=solve&p=vZTfb6Q2EMff96+wLJ3USm7Er4WFt1zu0pdr2uumOp3QKvKCk0UHeGugSYlyf/vNDGz4tVepD61YZoePx+Ox4Tu1yYRt4c+3BPzD5YO3DkIRWB7dyPG6zepcRWxbG/m4V8b8zd7KEi5x2dQHbSKWHmUqxPYgU8UqXSiWqDyvmC5ZfVBsr6VJL9447+BnX7BL9mB0c2T6nlU4I+2ji6aq2b02BZMMipPlQ676Wc5kVlMu55X6e3NdnFs2BRTOsjLNElmriuqqslZhPvR/6FNq85r+x37F+iBrpv9SJpfHimX1UEsiS5bospZZCXuFXIYV2qh+teqNc4WoxCFIIfP8Qvx6fS3uZV6pVWztVjG3ueAO3DbffW23X2POhb1bPbe/R8/tXRTvXkT7x+BuBncbPYO9iZ6561o8ijGLTXkEd70AiceFdyK+i8QdkSBEAuu/kg3lmRB7nif0kawH4tkeEn9M1n09r6SrMBwRj2LGZE0xo7U8n3YxzrxxZqv7G4oZrRVYlHmUJ3Bo75sRcWnvo9MI1hskwYnA0dp0wJ/JXpN1yN7C+YvWJfuOrEV2TfYDxbwn+4nsFVmPrE8xAb7B1SqGFydcyxc/OSHqD10bH1CK+OjRPwCHnAERdHsX8SmABk4x8yEaXI8ecbgT/igAa/inEAoKZsgWTrhZMAhcQvi6Y/jAeaXzu6ox9zJRPKpNowShTjo8Io10KNf6mGclhI1g9lCC0s4OIVTpw7n4vTbpLPsjyHICqj8baaaTk8wk+RRBk5k8S2P044QUsj5MwF7W0EarQ3acZlJlPS2gltMS5Rc5W60Y9vyy4k+c7tiFVh1i8wij9qNof+7EfGovov0I3eOXqL3B5tE1GvxeKcgB9/3gfqJx9K46aFvg3/TdAdzP4HancvehS/RbFLe3guM6b2k2uryAvtk3FXpOdLGHrcQc39pTD6sm1V+aPsxG7V12lW7PVOoOlaLbVYremUpxA/9dpeHupTt861/16/+htTz1+tJmkNjo6wF8RmZAz8qp5wtFAV9oBxdcygfoGQUBnYsI0FJHABdSAvYdNWHWuaCwqrmmcKmFrHCpsbLi3eob&a=VY3BDcUwDEJ3ybmHNMbGmSXK/mv0w+1L0VOFX+GcEajx/EixYKbILfYUt69bCd4Ql79DV8QynYca4E64E2gxbeZr2i/7XoQXUTZpts2WUymnWnm1djmVcOovhrYI9TPl0z7TOXPc5/y9+wE=)

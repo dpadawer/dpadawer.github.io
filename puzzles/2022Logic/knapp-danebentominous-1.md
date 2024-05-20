@@ -2,7 +2,7 @@
 permalink: /puzzles/knapp-danebentominous-1/
 ---
 
-# Kleighnt Up
+# Knapp Danebentominous
 
 This is an [Pentominous](https://puzz.link/rules.html?pentominous) with the variant that each given is off by one in one direction or the other.  
 **NOTE** This is fairly bashy and was mostly made as a meme in response to someone saying "The worst pentomino is either I or X because I haven't been able to find a 10x10 Pentominous which has only Is as clues but a solution grid different from the one on GMP several years ago; and I haven't been able to find a 10x10 Pentominous which has only Xs as clues".

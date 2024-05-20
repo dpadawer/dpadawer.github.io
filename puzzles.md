@@ -42,3 +42,16 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [Tapa... IN SPAAAAACE](tapa-in-spaaaaace-1) - Tapa variant
  * [Twilight Country Road](twilight-country-road-1) - Country Road variant
  * [Twilight Choco Banana](twilight-choco-banana-1) - Choco Banana variant
+ * [L + Ratio + Cipher + Knapp-Daneben](l-ratio-cipher-knapp-daneben-1) - 
+ * [Sun Masyoön](sun-masyoon-1) - Moon or Sun / Masyu mashup
+ * [Strawberry Banana](strawberry-banana-1) - Triangular Choco Banana with hidden clues
+ * [Week Loop](week-loop-1) - Moon or Sun expanded to all 7 days of the week, with crossing
+ 
+### 2024
+ * [Curve the Data](curve-the-data-1) - Cross the Streams-style Curve Data
+ * [Redshift](redshift-1) - Moon or Sun, but the clues are foreshadow-like
+ * [Guide Yajisan-Kazusan](guide-yajisan-kazusan-1) - Guide Arrow / Yajisan-Kazusan mashup
+ * [24HPC Puzzles 2024](24hpc-puzzles-2024) - A Yajisan-Kazusan puzzle and an Anglers puzzle created for 24HPC
+ * [Small Curve Data Pack](curve-data-1) - A set of 5 small curve datas
+ * [Ambigram Nurikabe](ambigram-nurikabe-1) - A nurikabe that can be solved right side up or right side down
+ * [Lettered Statue Park](statue-park-1) - A statue park using some rules in the original version of Statue Park that aren't used anymore
