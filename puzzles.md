@@ -42,7 +42,7 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [Tapa... IN SPAAAAACE](tapa-in-spaaaaace-1) - Tapa variant
  * [Twilight Country Road](twilight-country-road-1) - Country Road variant
  * [Twilight Choco Banana](twilight-choco-banana-1) - Choco Banana variant
- * [L + Ratio + Cipher + Knapp-Daneben](l-ratio-cipher-knapp-daneben-1) - 
+ * [L + Ratio + Cipher + Knapp-Daneben](l-ratio-cipher-knapp-daneben-1) - Variant L + Ratio puzzle
  * [Sun Masyoön](sun-masyoon-1) - Moon or Sun / Masyu mashup
  * [Strawberry Banana](strawberry-banana-1) - Triangular Choco Banana with hidden clues
  * [Week Loop](week-loop-1) - Moon or Sun expanded to all 7 days of the week, with crossing
