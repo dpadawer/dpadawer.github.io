@@ -2,13 +2,19 @@
 <html>
 <head>
 <title>Boomslang Goes the Dynamite</title>
+<script type="text/javascript" src="./runHunt.js"</script>
 <script type="text/javascript" src="../puzzlejs/puzzle.js"></script>
 <link rel="stylesheet" href="../puzzlejs/puzzle.css"> 
 <link rel="stylesheet" href="../puzzlejs/puzzle-basic-colors.css">
 <link rel="stylesheet" href="ssstyling.css">
 </head>
-<body>
+<body onload="onPuzzleLoad();">
 <h1>Boomslang Goes the Dynamite</h1>
+<form id="checker" class="checker-F" action="javascript:void(0);">
+<input type="text" id="answerText">
+<input type="submit" value="Check answer" onClick="submitAnswer('F');">
+</form>
+<h2 id="answer" style="visibility: hidden;"></h2>
 <p class="rules">Shade some cells in the grid to form a snake.</p>
 <p class="rules">The snake cannot loop back on itself and visit a cell that's orthogonally or diagonally adjacent to a cell it has visited before.</p>
 <p class="rules">Numbers indicate the amount of snake segments in the orthogonally and diagonally adjacent cells.</p>

@@ -2,13 +2,19 @@
 <html>
 <head>
 <title>Dasperate Measures</title>
+<script type="text/javascript" src="./runHunt.js"</script>
 <script type="text/javascript" src="../puzzlejs/puzzle.js"></script>
 <link rel="stylesheet" href="../puzzlejs/puzzle.css"> 
 <link rel="stylesheet" href="../puzzlejs/puzzle-basic-colors.css">
 <link rel="stylesheet" href="ssstyling.css">
 </head>
-<body>
+<body onload="onPuzzleLoad();">
 <h1>Dasperate Measures</h1>
+<form id="checker" class="checker-G" action="javascript:void(0);">
+<input type="text" id="answerText">
+<input type="submit" value="Check answer" onClick="submitAnswer('G');">
+</form>
+<h2 id="answer" style="visibility: hidden;"></h2>
 <p class="flavor">They're practicing ascending and descending the scales.</p>
 <img src="./images/dasperate_measures.png" class="bigpic">
 </body>
