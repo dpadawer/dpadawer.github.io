@@ -1,0 +1,24 @@
+.puzzle-entry td.extract { background-color: white; }
+.puzzle-entry td.black-cell { visibility: hidden; }
+html {background-color: grey }
+#clues {
+ position: absolute;
+ top: 815;
+ height: 250px;
+}
+
+Kind of working for clues (give or take any sort of screen resizing)
+
+<h2 id="clues">
+
+.clues {
+  position: absolute;
+  height: 700px;
+  top: 550;
+  left: 400;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 800px
+}
