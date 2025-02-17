@@ -53,3 +53,52 @@
 }
 
 /* END from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+h1 {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.flavor {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.clues {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.rules {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p {
+  margin: 2;
+}
+
+.bigpic {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.imgDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgInDiv {
+  object-fit: contain;
+}
