@@ -81,7 +81,6 @@ function submitAnswer(puzlId)
   if (huntData[puzlId]["normalized"] == btoa(normalized))
   {
     markPuzzleSolved(puzlId);
-    // alert("That's correct!");
     hideChecker(puzlId);
   }
   else
@@ -103,12 +102,7 @@ function initCookieIfNeeded()
 {
   if ((document.cookie === null) || (document.cookie == ""))
   {
-    //alert("Creating new cookie");
     createNewCookie();
-  }
-  else
-  {
-    //alert("Cookie already exists - " + document.cookie);
   }
 }
 
