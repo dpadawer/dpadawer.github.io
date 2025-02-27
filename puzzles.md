@@ -20,7 +20,7 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * Enigmarch 2024 (One of these days I'm sure)
  
 ### 2025
- * [Why'd It Have To Be...](puzzles/whyd_it_have_to_be/) - A small-to-medium hunt made in 3 weeks
+ * [Why'd It Have To Be...](./whyd_it_have_to_be/) - A small-to-medium hunt made in 3 weeks
 
 ## Logic Puzzles
 ### 2022
