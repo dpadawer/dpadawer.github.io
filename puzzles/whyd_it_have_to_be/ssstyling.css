@@ -54,6 +54,17 @@
 
 /* END from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
 
+/* BEGIN from gph-site */
+span.spoiler {
+  color: green;
+}
+
+span.spoiler:not(:hover) {
+  color: green;
+  background-color: green;
+}
+/* END from gph-site */
+
 h1 {
   margin: auto;
   width: 60%;
@@ -112,4 +123,24 @@ h2 {
 form {
   text-align: center;
   padding-top: 10px;
+}
+
+.solButton {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.solution {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+table.solTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, td, th {
+  border: 1px solid black;
 }

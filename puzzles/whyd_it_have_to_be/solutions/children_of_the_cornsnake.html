@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Solution: Children of the Cornsnake</title>
+<link rel="stylesheet" href="../ssstyling.css">
+</head>
+<h1>Solution: Children of the Cornsnake</h1>
+<div style="text-align: center">
+<h2>Answer: <span class="spoiler">NEE</span></h2>
+</div>
+
+<div class="solution">
+<p>Looking at the grid, solvers can hopefully begin to notice a few animals twisting through the grid.</p>
+<img src="./images/children_of_the_cornsnake_grid.png" class="imgInDiv">
+<p>The remaining letters spell <code>NICE JOB! NOW ORDER BY PARENT FIRST LETTER LOCS</code>.</p>
+<p>This, combined with the title should clue solvers to look at the <a href="https://en.wikipedia.org/wiki/List_of_animal_names">names of the young of each animal</a>. As clued by the flavor text, solvers should also note how many turns each animal makes in the grid. Each young should be indexed into by the number of turns the parent makes, ordered by where the first letter of each animal shows up in the grid top to bottom.</p>
+<table class="solTable">
+  <tr>
+    <th>Animal</th>
+    <th>Young</th>
+    <th>Turns</th>
+    <th>Letter</th>
+  </tr>
+  <tr>
+    <td>AARDVARK</td>
+    <td>CUB</td>
+    <td>3</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>KANGAROO</td>
+    <td>JOEY</td>
+    <td>2</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>LADYBUG</td>
+    <td>LARVA</td>
+    <td>3</td>
+    <td>R</td>
+  </tr>
+  <tr>
+    <td>DRAGONFLY</td>
+    <td>NYMPH</td>
+    <td>1</td>
+    <td>N</td>
+  </tr>
+  <tr>
+    <td>CHEETAH</td>
+    <td>KITTEN</td>
+    <td>2</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>CHIMPANZEE</td>
+    <td>INFANT</td>
+    <td>2</td>
+    <td>N</td>
+  </tr>
+  <tr>
+    <td>OYSTER</td>
+    <td>SPAT</td>
+    <td>2</td>
+    <td>P</td>
+  </tr>
+  <tr>
+    <td>CROCODILE</td>
+    <td>HATCHLING</td>
+    <td>2</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>ALPACA</td>
+    <td>CRIA</td>
+    <td>2</td>
+    <td>R</td>
+  </tr>
+  <tr>
+    <td>PHEASANT</td>
+    <td>CHICK</td>
+    <td>3</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>GOOSE</td>
+    <td>GOSLING</td>
+    <td>3</td>
+    <td>S</td>
+  </tr>
+</table>
+<p>This gives the clue <code>BORN IN PARIS</code>, cluing the answer, <span style="color: green">NEE</span>.</p>
+<h3>Notes</h3>
+<p>The <code>E</code> of <code>CROCODILE</code> is ambiguous without looking at the message spelled by the remaining letters, and a <code>CHEETAH</code>'s young can also possibly be called a CUB (this is hopefully discouraged by <code>AARDVARK</code> having that name without any other option). Apologies for any confusion!</p>
+</div>
+</body>

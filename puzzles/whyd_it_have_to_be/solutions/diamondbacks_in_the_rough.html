@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Solution: Diamondbacks in the Rough</title>
+<link rel="stylesheet" href="../ssstyling.css">
+</head>
+<h1>Solution: Diamondbacks in the Rough</h1>
+<div style="text-align: center">
+<h2>Answer: <span class="spoiler">DICE</span></h2>
+</div>
+
+<div class="solution">
+<p>Based on the title, solvers should first look at the diamond cards in order (in row-major order per blob, then in row-major order overall). This gives <code>7AK3643A73575A5A2</code> - with a little bit of squinting, this can be parsed as <code>7AK3 643A73565 A5 A-2</code>, or <code>TAKE GREATESTS AS A-Z</code>.</p>
+<p>Next, solvers should look at the greatest card(s) in each blob and convert to A1Z26 (the second blob in the second row should help disambiguate aces as having a value of 1):</p>
+<table class="solTable">
+  <tr>
+    <td>8 = H</td>
+    <td>5 = E</td>
+    <td>1 = A</td>
+    <td>9+9 = R</td>
+  </tr>
+  <tr>
+    <td>10+10 = T</td>
+    <td>2 = B</td>
+    <td>9+9 = R</td>
+    <td>1 = A</td>
+  </tr>
+  <tr>
+    <td>9 = I</td>
+    <td>6+6 = L</td>
+    <td>6+6 = L</td>
+    <td>5 = E</td>
+  </tr>
+</table>
+<p>Now, solvers should read any heart cards in each row as braille (when there are two letters in one blob, the first has been marked in green and the second in blue):</p>
+<img src="./images/diamondbacks_in_the_rough_braille.png" class="imgInDiv">
+<p>The braille spells out <code>COUNT CORNER SIZES</code>.</p>
+<p>The blobs in the corners have the sizes <code>4 9 3 5</code> which can once again be converted via A1Z26 to get the answer, <span style="color: green">DICE</span>.</p>
+</div>
+</body>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Solution: Easy as Python</title>
+<link rel="stylesheet" href="../ssstyling.css">
+</head>
+<h1>Solution: Easy as Python</h1>
+<div style="text-align: center">
+<h2>Answer: <span class="spoiler">ORANGE PEEL</span></h2>
+</div>
+
+<div class="solution">
+<p>Solvers should start by solving the crossword clues. After looking at a few and considering the title and flavor text, they should realize that each answer can have a single letter removed to make a <a href="https://docs.python.org/3/reference/lexical_analysis.html#keywords">Python keyword</a>.</p>
+<table class="solTable">
+  <tr>
+    <th>Clue</th>
+    <th>Answer</th>
+    <th>Python Keyword</th>
+    <th>Extra Letter</th>
+  </tr>
+  <tr>
+    <td>Peace agreement</td>
+    <td>TRUCE</td>
+    <td><code>TRUE<code></td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Beethoven wrote a song for her</td>
+    <td>ELISE</td>
+    <td><code>ELSE<code></td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Proficient or adept</td>
+    <td>DEFT</td>
+    <td><code>DEF<code></td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>A passage from a book</td>
+    <td>EXCERPT</td>
+    <td><code>EXCEPT<code></td>
+    <td>R</td>
+  </tr>
+  <tr>
+    <td>This answer's length</td>
+    <td>FOUR</td>
+    <td><code>FOR<code></td>
+    <td>U</td>
+  </tr>
+  <tr>
+    <td>Something that might come out of your nose</td>
+    <td>SNOT</td>
+    <td><code>NOT<code></td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <td>Former Japanese currency</td>
+    <td>RIN</td>
+    <td><code>IN<code></td>
+    <td>R</td>
+  </tr>
+  <tr>
+    <td>Place to get a sandwich</td>
+    <td>DELI</td>
+    <td><code>DEL<code></td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>His first album was illmatic</td>
+    <td>NAS</td>
+    <td><code>AS<code></td>
+    <td>N</td>
+  </tr>
+  <tr>
+    <td>Multiplied by height, it gives area</td>
+    <td>WIDTH</td>
+    <td><code>WITH<code></td>
+    <td>D</td>
+  </tr>
+
+</table>
+<p>Reading the extra letters in order gives the clue <code>CITRUS RIND</code> - along with the enumeration at the bottom, this clues <span style="color: green">ORANGE PEEL</span>.</p>
+<h3>Notes</h3>
+<p>I realize it's a bit confusing to have the enumerations of both the final clue and the final answer be (6 4) - this hopefully helped more than it hurt, though if I had to do it again I might reconsider <code>(6 4) -> (6 4)</code> or similar. The underlying dataset is sadly fairly constrained beyond what is seen here.</p>
+</div>
+</body>

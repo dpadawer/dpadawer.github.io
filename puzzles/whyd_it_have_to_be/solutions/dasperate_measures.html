@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>solution: dasperate measures</title>
+<link rel="stylesheet" href="../ssstyling.css">
+</head>
+<h1>solution: dasperate measures</h1>
+<div style="text-align: center">
+<h2>answer: <span class="spoiler">aeon</span></h2>
+</div>
+
+<div class="solution">
+<p>based on the words "ascending" and "descending", solvers should hopefully think of <a href="https://en.wikipedia.org/wiki/Ascender_(typography)">ascenders</a> and <a href="https://en.wikipedia.org/wiki/Descender">descenders</a> in typography. each note is a single letter - a note with no stem is one of <code>acemnorsuvwxz</code>, a note with a stem facing up is one of <code>bdfiklt</code>, and a note with a steam facing downards is one of <code>gpqy</code> (the letter <code>j</code> is omitted to avoid any ambiguity). additionally, each measure gives a single word.</p>
+<p>by poking at a few of the more suspicious words/phrases, solvers should then be able to piece together crossword clues for each row. Each clue solves for a word with as many letters as there are measures in the row. additionally, once a few words have been found, searching for all of them together should result in the discovery that these are all units of measurement.</p>
+<p>as each row has one measure that is just a rest and the number of letters in each answer lines up with the measures, solvers should extract those letters.</p>
+<table class="solTable">
+  <tr>
+    <th>clue</th>
+    <th>answer</th>
+    <th>extracted letter</th>
+  </tr>
+  <tr>
+    <td>large farm building</td>
+    <td>barn</td>
+    <td>b</td>
+  </tr>
+  <tr>
+    <td>buckwheat bulgur or barley</td>
+    <td>grain</td>
+    <td>i</td>
+  </tr>
+  <tr>
+    <td>gastropod without shell</td>
+    <td>slug</td>
+    <td>l</td>
+  </tr>
+  <tr>
+    <td>a special aptitude or ability</td>
+    <td>talent</td>
+    <td>l</td>
+  </tr>
+  <tr>
+    <td>merry pippin frodo or samwise</td>
+    <td>hobbit</td>
+    <td>i</td>
+  </tr>
+  <tr>
+    <td>thin woven rope</td>
+    <td>cord</td>
+    <td>o</td>
+  </tr>
+  <tr>
+    <td>actress mirren or hunt</td>
+    <td>helen</td>
+    <td>n</td>
+  </tr>
+  <tr>
+    <td>first name of cartoon mouse</td>
+    <td>mickey</td>
+    <td>y</td>
+  </tr>
+  <tr>
+    <td>charlie who found golden ticket</td>
+    <td>bucket</td>
+    <td>e</td>
+  </tr>
+  <tr>
+    <td>mother of mother</td>
+    <td>gram</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>french word for a duck</td>
+    <td>canard</td>
+    <td>r</td>
+  </tr>
+  <tr>
+    <td>vaccination via needle</td>
+    <td>shot</td>
+    <td>s</td>
+  </tr>
+  <tr>
+    <td>deadly enemy</td>
+    <td>foe</td>
+    <td>f</td>
+  </tr>
+  <tr>
+    <td>towel holder</td>
+    <td>rod</td>
+    <td>o</td>
+  </tr>
+  <tr>
+    <td>a group of sports teams</td>
+    <td>league</td>
+    <td>u</td>
+  </tr>
+  <tr>
+    <td>place to lay flowers</td>
+    <td>grave</td>
+    <td>r</td>
+  </tr>
+</table>
+<p>reading these letters in order gives the clue <code>billion years (four)</code> which clues the answer <span style="color: green">aeon</span>.</p>
+</div>
+</body>
