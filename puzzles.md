@@ -13,7 +13,14 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [No Name](https://docs.google.com/document/d/1dy0326VN7bvywagO8wIGHYKb73JP6qjsfkdOXx5dR24/edit) - **NOTE** - the enumeration (3 7) should be (3 6)
 
 ### 2023
+ * Enigmarch 2023 (Coming soon?)
  * [Citycorp Ulcer-Twirling Stones](../firetruck) - Puzzle created for a Secret Solver event
+
+### 2024
+ * Enigmarch 2024 (One of these days I'm sure)
+ 
+### 2025
+ * [Why'd It Have To Be...](puzzles/whyd_it_have_to_be/) - A small-to-medium hunt made in 3 weeks
 
 ## Logic Puzzles
 ### 2022
