@@ -1,0 +1,144 @@
+/* BEGIN from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+.zoom {
+  transition: transform .2s; /* Animation */
+}
+
+.zoom:hover {
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+/* END from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+/* BEGIN from TODO */
+.asdf {
+  
+}
+
+.asdf:hover {
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.8);
+  border-radius: 10px;
+  color: blue;
+  
+}
+
+/* END TODO */
+
+/* BEGIN from https://www.w3schools.com/howto/howto_css_glowing_text.asp */
+/*
+.glow:hover {
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+*/
+/* END from https://www.w3schools.com/howto/howto_css_glowing_text.asp */
+
+/* BEGIN from gph-site */
+span.spoiler {
+  color: green;
+}
+
+span.spoiler:not(:hover) {
+  color: green;
+  background-color: green;
+}
+/* END from gph-site */
+
+h1 {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.flavor {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.clues {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.rules {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p {
+  margin: 2;
+}
+
+.bigpic {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.imgDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgInDiv {
+  object-fit: contain;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+  vertical-align: middle;
+}
+
+form {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.solButton {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.solution {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+table.solTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+div.hedgeholder {
+  background-image: url("./images/map/baseNEW.png");
+  height: 664px;
+  width: 887px;
+}

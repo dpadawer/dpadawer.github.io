@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hedgehunt</title>
+<link rel="stylesheet" href="styling.css">
+<script type="text/javascript" src="runHunt.js"></script>
+</head>
+<body onload="onPageLoad();" style="background-color:#DFCDB7">
+
+<h1>Hedgehunt</h1>
+
+<div style="margin-left: auto; margin-right: 10px;">
+<button onclick="increasePuzzleWidth()" type="button" style="position: relative; float: right; margin-left: 10px;">Increase Unlock Width</button>
+<button onclick="resetHunt();" type="button" style="position: relative; float: right; margin-left: 10px;">Reset All Puzzle Progress</button>
+</div>
+</br>
+</br>
+
+<div class="imgDiv">
+<div class="hedgeholder" style="position: relative">
+  <a href="./slugSniffer.html" class="puzzle puz1" style="position: absolute; left: -9px; top: 121px; visibility: hidden; z-index: 2" id="solvA"><img class="zoom" src="./images/map/slugSniffer.png"/></a>
+  <a href="./snaildar.html" class="puzzle puz2" style="position: absolute; left: 259px; top: 37px; z-index: 2" id="solvB"><img class="zoom" src="./images/map/snaildar.png"/></a>
+  <a href="./curlablePosterior.html" class="puzzle puz3" style="position: absolute; left: 824px; top: 520px; visibility: hidden; z-index: 2" id="solvC"><img class="zoom" src="./images/map/curlablePosterior.png"/></a>
+  <a href="./pricklyPointers.html" class="puzzle puz4" style="position: absolute; left: 153px; top: 12px; z-index: 1" id="solvD"><img class="zoom" src="./images/map/pricklyPointers.png"/></a>
+  <a href="./beadyPeepers.html" class="puzzle puz5" style="position: absolute; left: 178px; top: 105px; visibility: hidden; z-index: 2" id="solvE"><img class="zoom" src="./images/map/beadyPeepers.png"/></a>
+  <a href="./grubbyGrabbers.html" class="puzzle puz6" style="position: absolute; left: 224px; top: 543px; visibility: hidden; z-index: 2" id="solvF"><img class="zoom" src="./images/map/grubbyGrabbers.png"/></a>
+  <a href="./velveteenTum.html" class="puzzle puz7" style="position: absolute; left: 353px; top: 545px; visibility: hidden; z-index: 2" id="solvG"><img class="zoom" src="./images/map/velveteenTum.png"/></a>
+  <a href="./chewyChompers.html" class="puzzle puz8" style="position: absolute; left: 7px; top: 152px; z-index: 2" id="solvH"><img class="zoom" src="./images/map/chewyChompers.png"/></a>
+  <a href="./anatomyOfAHedgehog.html" class="puzzle puz9" style="position: absolute; left: 325px; top: 325px; visibility: hidden; z-index: 1" id="solvI"><img class="zoom" src="./images/map/gehog.png"/></a>
+  
+</div>
+</div>
+
+</body>
+</html>
