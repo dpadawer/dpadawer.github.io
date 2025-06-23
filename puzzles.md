@@ -21,6 +21,7 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  
 ### 2025
  * [Why'd It Have To Be...](./whyd_it_have_to_be/) - A small-to-medium hunt made in 3 weeks
+ * [Hedgehunt](./hedgehunt) - Another small-to-less-medium hunt
 
 ## Logic Puzzles
 ### 2022
@@ -60,5 +61,23 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [Guide Yajisan-Kazusan](guide-yajisan-kazusan-1) - Guide Arrow / Yajisan-Kazusan mashup
  * [24HPC Puzzles 2024](24hpc-puzzles-2024) - A Yajisan-Kazusan puzzle and an Anglers puzzle created for 24HPC
  * [Small Curve Data Pack](curve-data-1) - A set of 5 small curve datas
- * [Ambigram Nurikabe](ambigram-nurikabe-1) - A nurikabe that can be solved right side up or right side down
+ * [Ambigram Nurikabe](ambigram-nurikabe-1) - A nurikabe that can be solved right side up or upside down
  * [Lettered Statue Park](statue-park-1) - A statue park using some rules in the original version of Statue Park that aren't used anymore
+ * [Pearldemonium](pearldemonium-1) - Masyu with ice and one sketchy pearl
+ * [Choco Banana (Connected Squares)](choco-banana-connected-squares-1) - Choco Banana with an extra constraint
+ * [Such Ego (Wow)](such-ego-wow-1) - Greener Grasses
+ * [The Sixty Second Showcase](sixty-second-showcase-1) - A Masyu and a Double Choco designed to each be solved in exactly 60 seconds
+ * [Permaculture - Arukone / Nurikabe](permaculture-1) - A single grid needs to be split into two grids to solve two different puzzle types
+ * [Bottom of the Barrel](bottom-of-the-barrel-1) - A Crossroads and a Firewalk
+ * [Topsy Turvy](topsy-turvy-1) - Curve Data that can be solved four different ways by rotating it
+ * [Masyu (Double Back)](masyu-double-back-1) - A Masyu with regions that must each be visited exactly twice
+ * [Country Road (Double Back)](country-road-double-back-1) - A Country Road where regions must each be visited exactly twice
+ * [Curse Data](curse-data-1) - Curve Data variant
+ * [Ambiguous Masyu Builder](ambiguous-masyu-builder-1) - Latin Square that lets you build an Ambiguous Masyu
+
+### 2025
+ * [Penrose Ring Ring](penrose-ring-ring-1) - Ring-Ring on a Penrose Tiling
+ * [Farmer's Loop](farmers-loop-1) - E I E I O
+ * [Masyu](masyu-1) - A regular Masyu that happens to be very tall
+ * [Aerobanana](aerobanana-1) - Choco Banana meets Look-Air
+ * [Masyopia](masyopia-1) - Masyu with Myopia clues to tell where the pearls are
