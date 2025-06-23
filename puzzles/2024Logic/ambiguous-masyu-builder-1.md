@@ -1,5 +1,5 @@
 ---
-permalink: /puzzles-ambiguous-masyu-builder-1/
+permalink: /puzzles/ambiguous-masyu-builder-1/
 ---
 
 # Ambiguous Masyu Builder
