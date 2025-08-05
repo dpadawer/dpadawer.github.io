@@ -1,0 +1,125 @@
+/* BEGIN from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+.zoom {
+  transition: transform .2s; /* Animation */
+}
+
+.zoom:hover {
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+/* END from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+
+/* BEGIN from gph-site */
+span.spoiler {
+  color: green;
+}
+
+span.spoiler:not(:hover) {
+  color: green;
+  background-color: green;
+}
+/* END from gph-site */
+
+h1 {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.flavor {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.warn {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+  color: red;
+}
+
+.clues {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.rules {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p {
+  margin: 2;
+}
+
+.bigpic {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.imgDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgInDiv {
+  object-fit: contain;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+  vertical-align: middle;
+}
+
+form {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.solButton {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.solution {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+table.solTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+div.hedgeholder {
+  background-image: url("./images/map/baseNEW.png");
+  height: 664px;
+  width: 887px;
+}
+
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 840px;
+}
