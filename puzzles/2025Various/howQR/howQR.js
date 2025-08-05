@@ -110,7 +110,6 @@ function initFactory(idx) {
 	}
 	
 	factories[idx] = factory;
-	console.debug("Just set up factory " + idx + " to be " + factory);
 }
 
 function startFactories() {
