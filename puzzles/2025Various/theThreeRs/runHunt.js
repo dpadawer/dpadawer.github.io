@@ -7,6 +7,7 @@ const huntData = {
   "F": { "normalized": "U0VER0U=", "display": "U0VER0U=" },
   "G": { "normalized": "UExFSUFERVM=", "display": "UExFSUFERVM=" },
   "H": { "normalized": "SEVQVEFHT04=", "display": "SEVQVEFHT04=" },
+  "I": { "normalized": "UE9JTlRJTkc=", "display": "UE9JTlRJTkc=" },
 }
 
 const DEFAULT_WIDTH = 8;
