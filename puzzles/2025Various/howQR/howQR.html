@@ -4,8 +4,18 @@
 <title>How QR!!</title>
 <link rel="stylesheet" href="../styling.css">
 <script type="text/javascript" src="./howQR.js" defer></script>
+<script type="text/javascript" src="./runHunt.js" defer></script>
 </head>
+<body onload="onPageLoad();">
 <h1>How QR!!</h1>
+<div style="margin-left: auto; margin-right: 10px;">
+<button onclick="resetHunt();" type="button" style="position: relative; float: right; margin-left: 10px;">Reset Puzzle</button>
+</div>
+<form id="checker" class="checker-A" action="javascript:void(0);">
+<input type="text" id="answerText">
+<input type="submit" value="Check answer" onClick="submitAnswer('A');">
+</form>
+<h2 id="answer" style="visibility: hidden;"></h2>
 <p class="warn">Warning: Starting too many factories at once may slow your browser. This note is <b>not</b> part of the puzzle.</p>
 </div>
 <br>

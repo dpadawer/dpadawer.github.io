@@ -1,16 +1,8 @@
 const huntData = {
-  "A": { "normalized": "TkVBUE9MSVRBTg==", "display": "TkVBUE9MSVRBTg==" },
-  "B": { "normalized": "VEhSRUVPRkFLSU5E", "display": "VEhSRUUgT0YgQSBLSU5E" },
-  "C": { "normalized": "R0xBQ0VPTg==", "display": "R0xBQ0VPTg==" },
-  "D": { "normalized": "VEhFU1RBUg==", "display": "VEhFIFNUQVI=" },
-  "E": { "normalized": "TUVHQQ==", "display": "TUVHQQ==" },
-  "F": { "normalized": "U0VER0U=", "display": "U0VER0U=" },
-  "G": { "normalized": "UExFSUFERVM=", "display": "UExFSUFERVM=" },
-  "H": { "normalized": "SEVQVEFHT04=", "display": "SEVQVEFHT04=" },
-  "I": { "normalized": "UE9JTlRJTkc=", "display": "UE9JTlRJTkc=" },
+  "A": { "normalized": "U1FVSVJURUQ=", "display": "U1FVSVJURUQ=" }
 }
 
-const DEFAULT_WIDTH = 8;
+const DEFAULT_WIDTH = 1;
 
 function resetHunt()
 {

@@ -1,6 +1,6 @@
 const huntData = {
-  "A": { "normalized": "RVZBQ1VBVEU=", "display": "RVZBQ1VBVEU=" },
-}
+  "A": { "normalized": "RVZBQ1VBVEU=", "display": "RVZBQ1VBVEU=" }
+};
 
 const DEFAULT_WIDTH = 1;
 
