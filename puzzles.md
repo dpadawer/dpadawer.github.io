@@ -22,6 +22,9 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
 ### 2025
  * [Why'd It Have To Be...](./whyd_it_have_to_be/) - A small-to-medium hunt made in 3 weeks
  * [Hedgehunt](./hedgehunt) - Another small-to-less-medium hunt
+ * [↗ᴎ\ʃ ʃ\⊐ⵇ ⨆|◹](./2025Various/thisSideUp/thisSideUp.html) - A cryptic crossword created for the prompt "Yaw, Pitch, Roll"
+ * [How QR!!](./2025Various/howQR/howQR.html)
+ * [The Three Rs](./2025Various/theThreeRs/) - Metamatching
 
 ## Logic Puzzles
 ### 2022
