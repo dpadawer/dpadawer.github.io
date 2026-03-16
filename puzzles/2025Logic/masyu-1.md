@@ -2,7 +2,7 @@
 permalink: /puzzles/masyu-1/
 ---
 
-# Masyu
+# Tall Masyu
 
 A regular [Masyu](https://puzz.link/rules.html?mashu) made with the requirement that it be at least 3 times as tall as it is wide.
 

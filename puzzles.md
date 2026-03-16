@@ -84,6 +84,15 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
 ### 2025
  * [Penrose Ring Ring](penrose-ring-ring-1) - Ring-Ring on a Penrose Tiling
  * [Farmer's Loop](farmers-loop-1) - E I E I O
- * [Masyu](masyu-1) - A regular Masyu that happens to be very tall
+ * [Tall Masyu](masyu-1) - A regular Masyu that happens to be very tall
  * [Aerobanana](aerobanana-1) - Choco Banana meets Look-Air
  * [Masyopia](masyopia-1) - Masyu with Myopia clues to tell where the pearls are
+ * [Campaign Trail](campaign-trail-1) - Country Road meets Gerrymandering
+ * [Irrwisch Double Choco](irrwisch-double-choco-1) - Cipher-adjacent Double Choco variant
+ * [Noodles](noodles-1) - A new genre I created
+ * [Nonunique Masyu](masyu-2) - A regular Masyu that isn't quite unique
+ * [TOILS](toils-1) - A mashup of LITS and some LITS variants in one conglomeration of grids
+ * [Square Jam (Cave 2x2s)](square-jam-1) - A Square Jam where all 2x2 squares must be connected to each other and the outside of the grid
+ * [Moon or Sun and Sun or Moon](moon-sun-1) - A single grid with two Moon or Sun puzzles in it
+ * [Country Road (9)](country-road-1) - A 9x9 country road with 9 regions
+ * [Double Choco (Hex) (Extra Cell)](double-choco-1) - A hex Double Choco that needs to have one cell removed
