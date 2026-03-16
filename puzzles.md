@@ -25,6 +25,9 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [↗ᴎ\ʃ  ʃ\⊐ⵇ  ⨆\|◹](./2025Various/thisSideUp/thisSideUp.html) - A cryptic crossword created for the prompt "Yaw, Pitch, Roll"
  * [How QR!!](./2025Various/howQR/howQR.html) - A puzzle? In the 2025 section?
  * [The Three Rs](./2025Various/theThreeRs/) - Metamatching
+ 
+### 2026
+ * [Eldrow](./2025Various/eldrow/eldrow.html) - Some grids and clues
 
 ## Logic Puzzles
 ### 2022
