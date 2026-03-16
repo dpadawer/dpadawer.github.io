@@ -27,7 +27,7 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [The Three Rs](./2025Various/theThreeRs/) - Metamatching
  
 ### 2026
- * [Eldrow](./2025Various/eldrow/eldrow.html) - Some grids and clues
+ * [eldroW](./2026Various/eldrow/eldrow.html) - Some grids and clues
 
 ## Logic Puzzles
 ### 2022
