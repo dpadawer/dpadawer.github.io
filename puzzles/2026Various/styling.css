@@ -1,0 +1,239 @@
+/* BEGIN from https://stackoverflow.com/questions/12813573/position-icons-into-circle */
+
+.circle-container {
+        position: relative;
+        width: 24em;
+        height: 24em;
+        padding: 2.8em;
+        /*2.8em = 2em*1.4 (2em = half the width of a link with img, 1.4 = sqrt(2))*/
+        /*border: dashed 1px;
+        border-radius: 50%; */
+        margin: 1.75em auto 0;
+    }
+    .circle-container a {
+        display: block;
+        position: absolute;
+        top: 50%; left: 50%;
+        width: 4em; height: 4em;
+        margin: -2em;
+    }
+    .circle-container img { display: block; width: 100%; }
+    /*
+    .deg0 { transform: translate(12em); }
+    .deg45 { transform: rotate(45deg) translate(12em) rotate(-45deg); }
+    .deg135 { transform: rotate(135deg) translate(12em) rotate(-135deg); }
+    .deg180 { transform: translate(-12em); }
+    .deg225 { transform: rotate(225deg) translate(12em) rotate(-225deg); }
+    .deg315 { transform: rotate(315deg) translate(12em) rotate(-315deg); }
+    */
+    .deg0 { transform: translate(12em) rotate(90deg) scale(2) }
+    .deg45 { transform: rotate(45deg) translate(12em) rotate(90deg) scale(2) }
+    .deg90 { transform: rotate(90deg) translate(12em) rotate(90deg) scale(2) }
+    .deg135 { transform: rotate(135deg) translate(12em) rotate(90deg) scale(2) }
+    .deg180 { transform: rotate(180deg) translate(12em) rotate(90deg) scale(2) }
+    .deg225 { transform: rotate(225deg) translate(12em) rotate(90deg) scale(2) }
+    .deg270 { transform: rotate(270deg) translate(12em) rotate(90deg) scale(2) }
+    .deg315 { transform: rotate(315deg) translate(12em) rotate(90deg) scale(2) }
+    
+    
+/* END from https://stackoverflow.com/questions/12813573/position-icons-into-circle */
+
+
+/* BEGIN from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+.zoom {
+  transition: transform .2s; /* Animation */
+}
+
+.zoom:hover {
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+/* END from https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
+
+
+/* BEGIN from gph-site */
+span.spoiler {
+  color: green;
+}
+
+span.spoiler:not(:hover) {
+  color: green;
+  background-color: green;
+}
+/* END from gph-site */
+
+h1 {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.flavor {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.flavorEldrow {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+  color: #818384
+}
+
+.warn {
+  margin: auto;
+  width: 60%;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+  color: red;
+}
+
+.clues {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.cluesEldrow {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+  color: #F8F8F8
+}
+
+.rules {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p {
+  margin: 2;
+}
+
+.bigpic {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.imgDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgInDiv {
+  object-fit: contain;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+  vertical-align: middle;
+}
+
+form {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.solButton {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.solution {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+table.solTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+div.hedgeholder {
+  background-image: url("./images/map/baseNEW.png");
+  height: 664px;
+  width: 887px;
+}
+
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 840px;
+}
+
+.column {
+	float: left;
+	padding: 0px;
+	text-align: center;
+}
+
+.columnL {
+	float: left;
+	width: 30%;
+	min-width: 300px;
+	text-align: center;
+}
+
+.columnR {
+	float: right;
+	width: 70%;
+	text-align: center;
+	min-height: 360px;
+}
+
+.left {
+	width: 33%;
+}
+
+.middle {
+	width: 33%;
+}
+
+.right {
+	width: 33%;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.row70 {
+	max-width: 60%;
+	margin: auto;
+}
+
+hr {
+	margin-top: 10px;
+	max-width: 50%;
+}
+
+.eldrowBlock {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	min-height: 360px; /* Without this, div doesn't get height of picture -> <hr>s capture right column for width */
+}
