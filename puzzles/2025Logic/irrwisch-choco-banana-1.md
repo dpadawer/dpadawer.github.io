@@ -2,7 +2,7 @@
 permalink: /puzzles/irrwisch-choco-banana-1/
 ---
 
-# Choco Banana
+# Irrwisch Choco Banana
 
 This is a [Choco Banana](https://puzz.link/rules.html?cbanana) with Irrwisch clues - each instance of the _same_ letter represents a _different_ value.
 

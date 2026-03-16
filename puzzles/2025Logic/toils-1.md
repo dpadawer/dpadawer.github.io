@@ -2,7 +2,7 @@
 permalink: /puzzles/toils-1/
 ---
 
-# LITS
+# TOILS
 
 This is 5 10x10 [LITS](https://puzz.link/rules.html?lits) variants (regular + 1 different piece banned in each grid besides O). See the puzzle for the full set of rules.
 
