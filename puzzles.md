@@ -88,7 +88,7 @@ Here are some puzzles I've made in the past, both hunt-style and stand-alone log
  * [Aerobanana](aerobanana-1) - Choco Banana meets Look-Air
  * [Masyopia](masyopia-1) - Masyu with Myopia clues to tell where the pearls are
  * [Campaign Trail](campaign-trail-1) - Country Road meets Gerrymandering
- * [Irrwisch Double Choco](irrwisch-double-choco-1) - Cipher-adjacent Double Choco variant
+ * [Irrwisch Double Choco](irrwisch-choco-banana-1) - Cipher-adjacent Choco Banana variant
  * [Noodles](noodles-1) - A new genre I created
  * [Nonunique Masyu](masyu-2) - A regular Masyu that isn't quite unique
  * [TOILS](toils-1) - A mashup of LITS and some LITS variants in one conglomeration of grids
