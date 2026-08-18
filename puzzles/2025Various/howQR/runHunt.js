@@ -1,8 +1,9 @@
+// In unlock order (except for the meta)
 const huntData = {
-  "A": { "normalized": "U1FVSVJURUQ=", "display": "U1FVSVJURUQ=" }
+    "A": { "normalized": "U1FVSVJURUQ=", "display": "U1FVSVJURUQ=" }
 }
 
-const DEFAULT_WIDTH = 1;
+const DEFAULT_WIDTH = 3;
 
 function resetHunt()
 {
@@ -12,6 +13,23 @@ function resetHunt()
         elem.style.filter = "grayscale(100%)";
     });
     showPuzzleStatus();
+}
+
+// https://www.w3schools.com/js/js_cookies.asp
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
 }
 
 function createNewCookie()
@@ -25,12 +43,12 @@ function createNewCookie()
 
 function parseCookie()
 {
-  return JSON.parse(document.cookie);
+  return JSON.parse(atob(getCookie("hunt")));
 }
 
 function setCookie(updatedVals)
 {
-  document.cookie = JSON.stringify(updatedVals);
+  document.cookie = "hunt=" + btoa(JSON.stringify(updatedVals));
 }
 
 function markPuzzleSolved(puzlIdx)
